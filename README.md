@@ -2,4 +2,4 @@
 
 Sass mixin for material shadows
 
-![shadows](https://d13yacurqjgara.cloudfront.net/users/6410/screenshots/1902162/attachments/324766/Screen_Shot_2015-01-27_at_3.02.41_PM.png)
+![shadows](https://s3.amazonaws.com/f.cl.ly/items/2z333d262a101P2J0v1S/material%20shadows.png)
