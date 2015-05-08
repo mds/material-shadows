@@ -6,6 +6,7 @@ Sass mixin for material shadows
     
 ## example usage
 
-`div<br/>
- +material(1)
+`div
+    
+  +material(1)
 `
