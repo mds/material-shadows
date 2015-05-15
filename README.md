@@ -6,6 +6,7 @@ Sass mixin for material shadows
     
 ## example usage
 
-`div   
-  +material(1)
-`
+```sass
+div   
+  +material(1) //choose 1-5 for varying levels of depth
+```
